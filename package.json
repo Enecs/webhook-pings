@@ -1,0 +1,15 @@
+{
+  "name": "pingspammer",
+  "version": "1.0.0",
+  "description": "Ping 10x every 5 seconds",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheVoidPros",
+  "license": "ISC"
+}
