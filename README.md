@@ -18,10 +18,6 @@
   •
   <a href="#installation">Installation</a>
   •
-  <a href="#plugins">Plugins</a>
-  •
-  <a href="#join-the-community">Community</a>
-  •
   <a href="#license">License</a>
 </p>
 
@@ -38,16 +34,6 @@ from installing and setting up webhooks.
 3. Open index.js in your favorite text editor, and edit line 4 with your webhook url and save the file.
 4. Open a terminal and type `npm install`
 5. Run the script using `node index.js`
-
-# Join the community!
-
-**Red** is in continuous development, and it’s supported by an active community which produces new
-content (cogs/plugins) for everyone to enjoy. New features are constantly added. If you can’t
-[find](https://cogboard.red/t/approved-repositories/210) the cog you’re looking for,
-consult our [guide](https://red-discordbot.readthedocs.io/en/stable/guide_cog_creation.html) on
-building your own cogs!
-
-Join us on our [Official Discord Server](https://discord.gg/red)!
 
 # License
 
