@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="Webhook Pings"></a>
+  <a href="https://github.com/TheVoidPros/webhook-pings/"><img src="https://discord.mx/wQc55zAAva.png" alt="Webhook Pings"></a>
   <br>
   Webhook Pings
   <br>
@@ -17,8 +17,6 @@
   <a href="#overview">Overview</a>
   •
   <a href="#installation">Installation</a>
-  •
-  <a href="#license">License</a>
 </p>
 
 # Overview
@@ -34,10 +32,3 @@ from installing and setting up webhooks.
 3. Open index.js in your favorite text editor, and edit line 4 with your webhook url and save the file.
 4. Open a terminal and type `npm install`
 5. Run the script using `node index.js`
-
-# License
-
-Released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
-
-This project vendors [discord.ext.menus](https://github.com/Rapptz/discord-ext-menus) package made by Danny Y. (Rapptz) which is distributed under MIT License.
-Copy of this license can be found in [discord-ext-menus.LICENSE](redbot/vendored/discord-ext-menus.LICENSE) file in [redbot/vendored](redbot/vendored) folder of this repository.
