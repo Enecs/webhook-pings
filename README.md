@@ -9,11 +9,6 @@
 <h4 align="center">Hundreds of discord pings within minutes.</h4>
 
 <p align="center">
-  <a href="https://discord.gg/Hnmhbhn">
-    <img src="https://discordapp.com/api/guilds/759903493737414656/widget.png?style=shield" alt="Discord Server">
-  </a>
-</p>
-<p align="center">
   <a href="#overview">Overview</a>
   •
   <a href="#installation">Installation</a>
