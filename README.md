@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheVoidPros/webhook-pings/"><img src="https://discord.mx/wQc55zAAva.png" alt="Webhook Pings"></a>
+  <a href="https://github.com/TheVoidPros/webhook-pings/"><img src="https://discord.mx/lwHkv6FeNR.jpg" alt="Webhook Pings"></a>
   <br>
   Webhook Pings
   <br>
