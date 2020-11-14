@@ -27,3 +27,6 @@ from installing and setting up webhooks.
 3. Open index.js in your favorite text editor, and edit line 4 with your webhook url and save the file.
 4. Open a terminal and type `npm install`
 5. Run the script using `node index.js`
+
+# Disclaimers
+Using this is likely to be against Discord's TOS. This is a form of API abuse. We are not responsible for anything that happens when using this program. **Use at your own risk!**
